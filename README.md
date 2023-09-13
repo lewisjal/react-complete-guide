@@ -1,6 +1,6 @@
 # react-complete-guide
 
-##How to view:
+## How to view:
 
 1. Clone the repository to a directory of your chosing
 2. After opening the project in a IDE of choosing install node package manager, using the command *npm install* to get all depenedencies
